@@ -1,0 +1,26 @@
+{
+  "name": "alef-ecommerce",
+  "version": "1.0.0",
+  "description": "ALEF Ecommerce FullStack Web Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git repository: https://github.com/Yousaer10/alef-ecommerce"
+  },
+  "keywords": [
+    "ecommerce",
+    "online",
+    "shopping",
+    "web",
+    "service",
+    "alef"
+  ],
+  "author": "Yousaer (Software Engineer Intern)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
