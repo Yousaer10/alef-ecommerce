@@ -21,6 +21,7 @@
   "author": "Yousaer (Software Engineer Intern)",
   "license": "ISC",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "vue-i18n": "^11.1.5"
   }
 }
